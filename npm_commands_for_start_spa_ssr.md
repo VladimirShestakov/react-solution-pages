@@ -83,4 +83,4 @@ npm run check:prettier
 npm run check:prettier:fix
 ```
 
-[← Новый проект](1.%20Новый%20проект.md) | [Управление зависимостями →](3.%20Управление%20зависимостями.md)
+← [Новый проект](new_project.md) | [Внедрение зависимостей](dependency_management/dependency_injection.md) →
