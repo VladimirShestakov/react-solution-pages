@@ -1,6 +1,6 @@
 # React Solution
 
-Решения для разработки frontend приложения на React. [GitHub](https://github.com/VladimirShestakov/react-solution)
+Решения для разработки frontend приложения на React. [GitHub](https://github.com/VladimirShestakov/react-solution) [Telegram](https://t.me/react_solution)
 
 - [Новый проект](new_project.md)
 - [Команды запуска SPA и SSR](npm_commands_for_start_spa_ssr.md)
