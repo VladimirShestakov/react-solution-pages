@@ -8,5 +8,5 @@
 
 - [Внедрение зависимостей](dependency_management/dependency_injection.md)
 - [Токен](dependency_management/token.md)
-- [Регистрация](registration.md)
+- [Регистрация](dependency_management/registration.md)
 - [Контейнер](dependency_management/di_container.md)
