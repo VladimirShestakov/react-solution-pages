@@ -216,5 +216,5 @@ container.events.on('onDelete', ({ token }: { token: Token }) => {
 
 Для работы с событиями используется класс `Events` из React-Solution. Для отписки от события применяется метод `events.off()`. Подробнее см. в описании класса `Events`.
 
-← [Регистрация](registration.md) | .. →
+← [Регистрация](dependency_management/registration.md) | .. →
 
