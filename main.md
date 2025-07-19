@@ -1,12 +1,27 @@
+---
+title:
+description:
+keywords:
+created: 2025-03-09
+updated: 2025-03-09
+author: Vladimir Shestakov
+---
 # React Solution
 
 Решения для разработки frontend приложения на React. [GitHub](https://github.com/VladimirShestakov/react-solution) [Telegram](https://t.me/react_solution)
 
-- [Новый проект](new_project.md)
-- [Команды запуска SPA и SSR](npm_commands_for_start_spa_ssr.md)
+## Быстрый старт
+
+- [Новый проект](manuals/start/new_project.md)
+- [Команды запуска SPA и SSR](manuals/start/npm_commands_for_start_spa_ssr.md)
+
+---
 ## Управление зависимостями
 
-- [Внедрение зависимостей](dependency_management/dependency_injection.md)
-- [Токен](dependency_management/token.md)
-- [Регистрация](dependency_management/registration.md)
-- [Контейнер](dependency_management/di_container.md)
+- [Ослабление связей](manuals/di/adapter-pattern.md) 
+- [Инверсия зависимостей](manuals/di/inversion_control.md)
+- [Контейнер](manuals/di/service-manager.md)
+- [Провайдеры](manuals/di/provider.md)
+- [Токены](manuals/di/token.md)
+- [Внедрение зависимостей](manuals/di/concept.md)
+
