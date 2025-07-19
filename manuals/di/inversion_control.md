@@ -76,4 +76,4 @@ render(<App store={store}/>);
 
 Проблему проброса свойств (Props Drilling) попробуем решить в следующей теме.
 
-[Контейнер экземпляров](manuals/di/service-manager.md)
+[Содержание](main.md)

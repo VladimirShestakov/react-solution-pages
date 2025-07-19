@@ -92,4 +92,4 @@ npm run check:prettier
 npm run check:prettier:fix
 ```
 
-← [Новый проект](manuals/start/new_project.md) | [Внедрение зависимостей](manuals/dependency_management/dependency_injection.md) →
+[Содержание](main.md)
